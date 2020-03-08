@@ -7,3 +7,11 @@
 - bg.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/bg.jpg
 
 - favicon: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/favicon.ico
+
+- 404.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/404.jpg
+
+- friend_404.gif: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/friend_404.gif
+
+- icp.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/icp.png
+
+- comment_bg.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/comment_bg.png
