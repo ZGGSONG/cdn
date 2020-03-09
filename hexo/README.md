@@ -15,3 +15,5 @@
 - icp.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/icp.png
 
 - comment_bg.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/comment_bg.png
+
+- mail.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/mail.jpg
