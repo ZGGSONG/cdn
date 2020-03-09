@@ -17,3 +17,5 @@
 - comment_bg.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/comment_bg.png
 
 - mail.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/mail.jpg
+
+- mail.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn@master/hexo/mail.webp
