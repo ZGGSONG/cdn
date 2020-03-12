@@ -18,7 +18,7 @@
 
 - mail1.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/mail1.jpg
 
-- mail.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn@master/hexo/mail.webp
+- mail.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/mail.webp
 
 
-- beau.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn@master/hexo/beau.png
+- beau.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/beau.png
