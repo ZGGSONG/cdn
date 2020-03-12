@@ -20,3 +20,5 @@
 
 - mail.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn@master/hexo/mail.webp
 
+
+- beau.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn@master/hexo/beau.png
