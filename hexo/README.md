@@ -19,3 +19,4 @@
 - mail1.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/mail1.jpg
 
 - mail.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn@master/hexo/mail.webp
+
