@@ -21,3 +21,5 @@
 - mail.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/mail.webp
 
 
+
+- youtube.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/youtube.png
