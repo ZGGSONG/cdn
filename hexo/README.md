@@ -25,3 +25,5 @@
 - ssr.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/ssr.png
 
 - google.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/google.png
+
+- 灵魂闹钟.mp3: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/灵魂闹钟.mp3
