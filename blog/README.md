@@ -5,3 +5,5 @@
 
 - myfont.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/myfont.css
 
+
+- swj.mov: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/swj.mov
