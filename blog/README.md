@@ -13,3 +13,5 @@
 - fire.zip: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/fire.zip
 
 - HoerMouse.tar.gz: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/HoerMouse.tar.gz
+
+- alipay.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/alipay.png
