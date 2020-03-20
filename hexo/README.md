@@ -29,3 +29,5 @@
 - 灵魂闹钟.mp3: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/灵魂闹钟.mp3
 
 - 织毛衣.mp3: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/织毛衣.mp3
+
+- hexo01_bg.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo01_bg.webp
