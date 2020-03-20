@@ -47,3 +47,5 @@
 - hexo09_bg.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo09_bg.png
 
 - archive.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/archive.jpg
+
+- hexo-ssr.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo-ssr.png
