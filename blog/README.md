@@ -11,3 +11,5 @@
 - djtx.js: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/djtx.js
 
 - fire.zip: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/fire.zip
+
+- HoerMouse.tar.gz: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/HoerMouse.tar.gz
