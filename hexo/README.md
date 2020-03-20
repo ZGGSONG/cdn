@@ -33,3 +33,5 @@
 - hexo01_bg.webp: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo01_bg.webp
 
 - hexo02_bg.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo02_bg.png
+
+- hexo03_bg.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo03_bg.png
