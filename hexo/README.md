@@ -39,3 +39,5 @@
 - hexo04_01.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo04_01.png
 
 - hexo05_bg.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo05_bg.jpg
+
+- hexo07_01.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo07_01.png
