@@ -9,3 +9,5 @@
 - swj.mov: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/swj.mov
 
 - djtx.js: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/djtx.js
+
+- fire.zip: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/fire.zip
