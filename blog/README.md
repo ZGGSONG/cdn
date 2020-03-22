@@ -18,3 +18,5 @@
 
 
 - FZCuJinLFW-embed.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/FZCuJinLFW-embed.css
+
+- myfont_LFW.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/myfont_LFW.css
