@@ -16,4 +16,5 @@
 
 - alipay.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/alipay.png
 
-- ting.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/ting.css
+
+- FZCuJinLFW-embed.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/FZCuJinLFW-embed.css
