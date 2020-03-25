@@ -1,0 +1,5 @@
+/*下面修改为自己字体的位置名和字体名*/
+@font-face{
+    font-family: 'myfont';
+    src : url('../fonts/myfont/swj.TTF');
+}
