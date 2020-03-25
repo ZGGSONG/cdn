@@ -1,11 +1,6 @@
 
 - bg.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/bg.jpg
 
-- main.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/main.css
-
-- myfont.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/myfont.css
-
-
 - swj.mov: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/swj.mov
 
 - djtx.js: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/djtx.js
@@ -19,9 +14,7 @@
 
 - FZCuJinLFW-embed.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/FZCuJinLFW-embed.css
 
-- myfont_LFW.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/myfont_LFW.css
-
-
 - out.mp4: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/out.mp4
 
 - style.min.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.min.css
+- style.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.css
