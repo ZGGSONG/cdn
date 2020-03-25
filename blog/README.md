@@ -24,4 +24,4 @@
 
 - out.mp4: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/out.mp4
 
-- main.min.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/main.min.css
+- style.min.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.min.css
