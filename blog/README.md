@@ -22,4 +22,4 @@
 - myfont_LFW.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/myfont_LFW.css
 
 
-- sea.mov: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/sea.mov
+- out.mp4: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/out.mp4
