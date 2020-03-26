@@ -4,6 +4,7 @@
 str="https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/"
 hexo="hexo"
 blog="blog"
+time=$(date "+%m月%d日%X")
 i=1
 while [ $i -eq 1 ]
 do
@@ -40,7 +41,7 @@ then
 	cd ~/gitR/cdn
 	git add .
 	git status
-	git commit -m "update"
+	git commit -m "update $time"
 	git push
 	echo -e "\033[42;37m推送成功 \033[0m" 
 else
