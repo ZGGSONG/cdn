@@ -7,8 +7,8 @@ blog="blog"
 i=1
 while [ $i -eq 1 ]
 do
-	echo "\033[41;37m================ \033[0m"
-	echo "\033[41;37m添加文件(y/n)? \033[0m"
+	echo -e "\033[41;37m================ \033[0m"
+	echo -e "\033[41;37m添加文件(y/n)? \033[0m"
 	read ans
 	if [ $ans == y ]
 	then
@@ -31,7 +31,7 @@ do
 done
 
 #推送仓库
-echo "\033[42;37m推送到仓库？(y/n) \033[0m" 
+echo -e "\033[42;37m推送到仓库？(y/n) \033[0m" 
 read git
 if [ $git == y ]
 then
@@ -39,7 +39,7 @@ then
 	git add .
 	git commit -m "update"
 	git push origin master
-	echo "\033[42;37m推送成功 \033[0m" 
+	echo -e "\033[42;37m推送成功 \033[0m" 
 else
-	echo "\033[41;36m取消推送 \033[0m" 
+	echo -e "\033[41;36m取消推送 \033[0m" 
 fi
