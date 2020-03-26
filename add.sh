@@ -20,12 +20,12 @@ do
 			'h'|'H'|'hexo'|'HEXO')
 				echo - $filename: $str$hexo'/'$filename >> ~/gitR/cdn/hexo/README.md
 				echo  >> ~/gitR/cdn/hexo/README.md
-				mv ./$filename ~/gitR/cdn/hexo/
+				cp ./$filename ~/gitR/cdn/hexo/
 				;;
 			'b'|'B'|'blog'|'BLOG')
 				echo - $filename: $str$blog'/'$filename >> ~/gitR/cdn/blog/README.md
 				echo  >> ~/gitR/cdn/blog/README.md
-				mv ./$filename ~/gitR/cdn/blog/
+				cp ./$filename ~/gitR/cdn/blog/
 		esac
 	else
 		break
