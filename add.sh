@@ -27,6 +27,10 @@ do
 				echo - $filename: $str$blog'/'$filename >> ~/gitR/cdn/blog/README.md
 				echo  >> ~/gitR/cdn/blog/README.md
 				cp ./$filename ~/gitR/cdn/blog/
+				;;
+			*)
+				echo -e "\033[41;36m输入有误 \033[0m" 
+				;;
 		esac
 	else
 		break
@@ -47,3 +51,4 @@ then
 else
 	echo -e "\033[41;36m取消推送 \033[0m" 
 fi
+exit 0
