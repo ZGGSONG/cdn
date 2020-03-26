@@ -50,3 +50,5 @@
 
 - hexo-ssr.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo-ssr.png
 
+- zhbk.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/zhbk.jpg
+
