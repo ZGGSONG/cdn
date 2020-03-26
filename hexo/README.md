@@ -52,3 +52,7 @@
 
 - zhbk.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/zhbk.jpg
 
+- 35.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/35.jpg
+
+- 27.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/27.jpg
+
