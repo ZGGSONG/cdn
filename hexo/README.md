@@ -1,4 +1,4 @@
-## 注
+## 描述
 
 - logo.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/logo.png
 
