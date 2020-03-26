@@ -37,6 +37,7 @@ if [ $git == y ]
 then
 	cd ~/gitR/cdn
 	git add .
+	git status
 	git commit -m "update"
 	git push origin master
 	echo -e "\033[42;37m推送成功 \033[0m" 
