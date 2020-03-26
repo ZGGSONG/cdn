@@ -41,7 +41,7 @@ then
 	git add .
 	git status
 	git commit -m "update"
-	git push origin master
+	git push
 	echo -e "\033[42;37m推送成功 \033[0m" 
 else
 	echo -e "\033[41;36m取消推送 \033[0m" 
