@@ -48,4 +48,4 @@
 
 - archive.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/archive.jpg
 
-- hexo-ssr.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo-ssr.png
+- hexo-ssr.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/hexo-ssr.png- test.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo'/'test.png
