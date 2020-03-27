@@ -18,3 +18,5 @@
 
 - style.min.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.min.css
 - style.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.css
+- 世间美好与你环环相扣.m4a: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/世间美好与你环环相扣.m4a
+
