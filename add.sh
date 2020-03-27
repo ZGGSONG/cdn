@@ -4,7 +4,7 @@
 str="https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/"
 hexo="hexo"
 blog="blog"
-time=$(date "+%y/%m/%d %X")
+time=$(date "+%Y/%m/%d_%X")
 i=1
 while [ $i -eq 1 ]
 do
