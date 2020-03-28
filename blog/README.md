@@ -22,3 +22,7 @@
 
 - 世间美好与你环环相扣.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/世间美好与你环环相扣.jpg
 
+- 平凡的一天.m4a: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/平凡的一天.m4a
+
+- 平凡的一天.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/平凡的一天.jpg
+
