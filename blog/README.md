@@ -26,3 +26,7 @@
 
 - 平凡的一天.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/平凡的一天.jpg
 
+- 贝加尔湖畔.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/贝加尔湖畔.jpg
+
+- 李健 - 贝加尔湖畔.mp3: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/李健 - 贝加尔湖畔.mp3
+
