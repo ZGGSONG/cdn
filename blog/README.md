@@ -17,7 +17,9 @@
 - out.mp4: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/out.mp4
 
 - style.min.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.min.css
+
 - style.css: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/style.css
+
 - 世间美好与你环环相扣.m4a: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/世间美好与你环环相扣.m4a
 
 - 世间美好与你环环相扣.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/世间美好与你环环相扣.jpg
@@ -27,5 +29,5 @@
 - 平凡的一天.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/平凡的一天.jpg
 
 - 贝加尔湖畔.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/贝加尔湖畔.jpg
-- 贝加尔湖畔.mp3: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/贝加尔湖畔.mp3
 
+- 贝加尔湖畔.mp3: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/blog/贝加尔湖畔.mp3
