@@ -58,3 +58,5 @@
 
 - google_cloud.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/google_cloud.jpg
 
+- gcp_1.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/gcp_1.png
+
