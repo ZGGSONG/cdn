@@ -62,3 +62,5 @@
 
 - gcp_2.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/gcp_2.png
 
+- gcp_7.png: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/gcp_7.png
+
