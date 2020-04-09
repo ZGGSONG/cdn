@@ -56,7 +56,5 @@
 
 - 27.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/27.jpg
 
-- google cloud.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/google cloud.jpg
-
 - google_cloud.jpg: https://cdn.jsdelivr.net/gh/ZGGSONG/cdn/hexo/google_cloud.jpg
 
