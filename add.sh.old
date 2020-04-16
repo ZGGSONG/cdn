@@ -14,8 +14,25 @@ do
 	read ans
 	if [ $ans == y ]
 	then
-		open .
-		open ~/gitR/cdn/
+		echo "请输入文件名:"
+		read filename
+		echo "存放至哪个目录下(h/b)"
+		read choice
+		case "$choice" in
+			'h'|'H'|'hexo'|'HEXO')
+				echo - $filename: $str$hexo'/'$filename >> ~/gitR/cdn/hexo/README.md
+				echo  >> ~/gitR/cdn/hexo/README.md
+				cp ./$filename ~/gitR/cdn/hexo/
+				;;
+			'b'|'B'|'blog'|'BLOG')
+				echo - $filename: $str$blog'/'$filename >> ~/gitR/cdn/blog/README.md
+				echo  >> ~/gitR/cdn/blog/README.md
+				cp ./$filename ~/gitR/cdn/blog/
+				;;
+			*)
+				echo -e "\033[41;36m输入有误 \033[0m" 
+				;;
+		esac
 	else
 		break
 	fi
